@@ -1,0 +1,12 @@
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+  <input>
+    <net-file value="C:\Users\tchar\OneDrive - entpe.fr\These\clumitisi\inputs\EIDM\network secured\bottleneck 2 lanes to 1 to 2 normal weather.net.xml"/>
+    <route-files value="C:\Users\tchar\OneDrive - entpe.fr\These\clumitisi\inputs\EIDM\route secured\2200 10 ACC.rou.xml"/>
+  </input>
+  
+  <time>
+    <begin value="0"/>
+    <end value="3600"/>
+    <step-length value="1"/>
+  </time>
+	</configuration>
