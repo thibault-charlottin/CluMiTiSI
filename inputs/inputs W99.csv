@@ -1,0 +1,13 @@
+﻿combis géométrie;combis demande
+works 2 lanes to 1 to 2 normal weather.net.xml;2200 0 ACC.rou.xml
+works 2 lanes to 1 to 2 rain.net.xml;2200 10 ACC.rou.xml
+works 3 lanes to 2 to 3 fog.net.xml;2200 25 ACC.rou.xml
+works 3 lanes to 2 to 3 normal weather.net.xml;2200 100 ACC.rou.xml
+works 3 lanes to 2 to 3 rain.net.xml;3000 0 ACC.rou.xml
+bottleneck 2 lanes to 1 to 2 normal weather.net.xml;3000 10 ACC.rou.xml
+bottleneck 2 lanes to 1 to 2 rain.net.xml;3000 25 ACC.rou.xml
+bottleneck 3 lanes to 2 to 3 normal weather.net.xml;3000 100 ACC.rou.xml
+bottleneck 3 lanes to 2 to 3 rain.net.xml;4400 0 ACC.rou.xml
+works 2 lanes to 1 to 2 fog.net.xml;4400 10 ACC.rou.xml
+;4400 25 ACC.rou.xml
+;4400 100 ACC.rou.xml

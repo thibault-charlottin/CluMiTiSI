@@ -1,0 +1,19 @@
+﻿combis géométrie;combis demande
+Reseau section 3 voies brouillard.net.xml;2200 0 ACC.rou.xml
+Reseau section 3 voies pluie.net.xml;2200 10 ACC.rou.xml
+Reseau section 3 voies travaux début brouillard.net.xml;2200 25 ACC.rou.xml
+Reseau section 3 voies travaux début pluie.net.xml;2200 100 ACC.rou.xml
+Reseau section 3 voies travaux début.net.xml;3000 0 ACC.rou.xml
+Reseau section 3 voies travaux fin brouillard.net.xml;3000 10 ACC.rou.xml
+Reseau section 3 voies travaux fin pluie.net.xml;3000 25 ACC.rou.xml
+Reseau section 3 voies travaux fin.net.xml;3000 100 ACC.rou.xml
+Reseau section 3 voies.net.xml;4400 0 ACC.rou.xml
+Reseau section brouillard.net.xml;4400 10 ACC.rou.xml
+Reseau section pluie.net.xml;4400 25 ACC.rou.xml
+Reseau section travaux début brouillard.net.xml;4400 100 ACC.rou.xml
+Reseau section travaux début pluie.net.xml;5000 0 ACC.rou.xml
+Reseau section travaux début.net.xml;5000 10 ACC.rou.xml
+Reseau section travaux fin brouillard.net.xml;5000 25 ACC.rou.xml
+Reseau section travaux fin pluie.net.xml;5000 100 ACC.rou.xml
+Reseau section travaux fin.net.xml;
+Reseau section.net.xml;
