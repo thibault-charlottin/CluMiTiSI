@@ -28,6 +28,5 @@ To do:
 Misc:
 When executing the code for the first time please run all the import the inputs cells before running the simulation cells 
 You must restart the kernel if exiting during a simulation so that the traci module can reinitialize
-
-
+If your computer is equipped with a good quality graphics card, you can replace 'sumo.exe' with 'sumo-gui.exe' to speed up the computation time
 
